@@ -2,7 +2,7 @@
 Power BI dashboard and presentation analyzing retail sales performance with demographic insights, product trends, and stakeholder-focused recommendations.
 
 # 🧩 Retail Sales Performance Dashboard (Power BI)
-
+![Content Type by Rating](https://github.com/SuhailIsmail/Retail_Store_Sales_Analysis/blob/main/Power_BI.png?raw=true)
 
 This repository contains a data storytelling project using Power BI to analyze and visualize retail sales performance. It includes a comprehensive report and a stakeholder-facing presentation highlighting key metrics, demographic insights, and strategic recommendations.
 
