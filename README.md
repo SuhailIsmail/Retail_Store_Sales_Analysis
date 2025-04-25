@@ -31,8 +31,7 @@ The dashboard provides a clear view of:
 
 ## 📂 Contents
 
-- `Retail_Sales_Performance_Summary.pptx` — Raw insight slides.
-- `Retail_Storytelling_Updated_Presentation.pptx` — With stakeholder recommendations.
+- `Retail_Storytelling_Updated_Presentation.pptx` — Raw insight slides, With stakeholder recommendations.
 - `Power_BI.png` — Screenshot of the dashboard.
 
 ## 🛠 Tools Used
